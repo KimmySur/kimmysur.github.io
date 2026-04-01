@@ -30,4 +30,4 @@
 
 # Contact Info
 * [LinkedIN](https://www.linkedin.com/in/kimmy-surasiranon-b67619370)
-* [Web Page](https://kimmysur.github.io/)
+* [Web Page](https://kimmysur.github.io)
