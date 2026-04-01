@@ -25,3 +25,9 @@
 
 # Project Experience With Language
 * Computer Skills: Microsoft Excel (Basic), Microsoft Word, Microsoft PowerPoint, Canva
+* Human Languages: Thai (Native), English (IELTS Band 7.0)
+* Personal Skills: Detail Oreintation, Analytical Thinking, and Critical Thinking
+
+# Contact Info
+* [LinkedIN](https://www.linkedin.com/in/kimmy-surasiranon-b67619370)
+* [Web Page](https://kimmysur.github.io/)
