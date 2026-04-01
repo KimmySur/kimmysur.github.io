@@ -1,6 +1,6 @@
 <img src="https://github.com/KimmySur/kimmysur.github.io/blob/main/KimmySur%20PFP.jpg?raw=true" alt="Kimmy Photo" align="right" width="20%"/>
 
-# _Kimmy Surasiranon_
+# _Kimmy Surasiranon
 > _Management Student & Researcher_<br />
 > Payap University, department of International Business Management<br />
 > Chiang Mai, Thailand<br />
