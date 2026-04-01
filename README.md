@@ -18,10 +18,10 @@
 * Author & Presenter - ECTI DAMT & NCON 2026
 
 # Interest
-*Business Management & Efficient Operations
-*Finance
-*Community Service & Student Activities Coordination
-*Souls Like Gaming & Rock, Pop-Punk & Alt Metal Based Music
+* Business Management & Efficient Operations
+* Finance
+* Community Service & Student Activities Coordination
+* Souls Like Gaming & Rock, Pop-Punk & Alt Metal Based Music
 
-#Project Experience With Language
+# Project Experience With Language
 *Computer Skills: Microsoft Excel (Basic), Microsoft Word, Microsoft PowerPoint, Canva
