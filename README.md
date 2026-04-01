@@ -1,4 +1,5 @@
-<img src="" alt="RPB Photo" align="right" width="30%"/>
+<img src="<img width="614" height="614" alt="image" src="https://github.com/user-attachments/assets/1db41df3-7c37-40b2-b952-7a92f643f50d" />
+" alt="RPB Photo" align="right" width="30%"/>
 
 # _Kimmy Surasiranon_
 > _Management Student & Researcher_<br />
