@@ -10,8 +10,8 @@
 ---
 
 - 📫 How to reach me **chawakorn.surasiranon@gmail.com**
-- 📖 My Portfolio Page: https://kimmysur.github.io
-- 📄[My Resume(PDF):](https://drive.google.com/file/d/14qT9wnydYIZWE3k7220Zgo4IFRFw5TnS/view?usp=sharing)
+- 📖 [My Portfolio Page](https://kimmysur.github.io)
+- 📄[My Resume(PDF)](https://drive.google.com/file/d/14qT9wnydYIZWE3k7220Zgo4IFRFw5TnS/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
