@@ -11,13 +11,13 @@
 * Business Administration (International Business Management) - Payap University (Major GPA: 3.80, Cumulative: 3.67)
 * High School Graduate (GED 673) - Varee Chiang Mai International School
 
-#Experience & Leadership
+# Experience & Leadership
 * Secretary & Project Coordinator - Payap University Rotaract Club
 * Student Union Member - Payap University Student Union
 * 1st Place Team Winner (Team Pookie Bear) - Code for Hope Hackathon
 * Author & Presenter - ECTI DAMT & NCON 2026
 
-#Interest
+# Interest
 *Business Management & Efficient Operations
 *Finance
 *Community Service & Student Activities Coordination
