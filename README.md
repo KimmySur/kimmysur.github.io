@@ -1,4 +1,4 @@
-<img src="" alt="Kimmy Photo" align="right" width="30%"/>
+<img src="https://github.com/KimmySur/kimmysur.github.io/blob/main/KimmySur%20PFP.jpg?raw=true" alt="Kimmy Photo" align="right" width="30%"/>
 
 # _Kimmy Surasiranon_
 > _Management Student & Researcher_<br />
