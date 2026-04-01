@@ -24,4 +24,4 @@
 * Souls Like Gaming & Rock, Pop-Punk & Alt Metal Based Music
 
 # Project Experience With Language
-*Computer Skills: Microsoft Excel (Basic), Microsoft Word, Microsoft PowerPoint, Canva
+* Computer Skills: Microsoft Excel (Basic), Microsoft Word, Microsoft PowerPoint, Canva
