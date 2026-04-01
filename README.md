@@ -1,4 +1,4 @@
-<img src="https://github.com/KimmySur/kimmysur.github.io/issues/1#issue-4183843701" alt="RPB Photo" align="right" width="30%"/>
+<img src="" alt="RPB Photo" align="right" width="30%"/>
 
 # _Kimmy Surasiranon_
 > _Management Student & Researcher_<br />
