@@ -29,5 +29,5 @@
 * Personal Skills: Detail Oreintation, Analytical Thinking, and Critical Thinking
 
 # Contact Info
-* [LinkedIN](https://www.linkedin.com/in/kimmy-surasiranon-b67619370)
+* [LinkedIN](https://www.linkedin.com/in/chawakorn-surasiranon-b67619370/)
 * [Web Page](https://kimmysur.github.io)
